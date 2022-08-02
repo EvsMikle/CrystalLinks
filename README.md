@@ -4,6 +4,8 @@
 
 ![astolfo-fate](https://user-images.githubusercontent.com/89415589/182264549-f93913ca-c924-47ff-94d2-08545058df19.gif)
 
+![](https://komarev.com/ghpvc/?username=CrystalLinks&color=ff69b4&style=for-the-badge)
+
 ## Languages:
 <img src='https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png' alt='uwu' height='32'> <img src='https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png' alt='uwu' height='32'>
 
