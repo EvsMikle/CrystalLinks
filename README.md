@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=CrystalLinks&color=ff69b4&style=for-the-badge)
 
 ## Languages:
-<img src='https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png' alt='uwu' height='32'> <img src='https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png' alt='uwu' height='32'>
+<img src='https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png' alt='uwu' height='32'> <img src='https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png' alt='uwu' height='32'><img src='https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' alt='uwu' height='32'> 
 
 ## Socials:
 
