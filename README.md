@@ -11,7 +11,7 @@
 
 ## Socials:
 
-### Discord: _**Niki817**_
+### Discord: _**niki817**_
 
 ### _FurAffinity:_ [<img src='https://static.wikia.nocookie.net/logopedia/images/9/95/Fa_logo-2019.png/revision/latest?cb=20191231205127' alt='furaffinity' height='20'>](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 
